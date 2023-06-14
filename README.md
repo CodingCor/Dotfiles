@@ -6,7 +6,16 @@ This repository contains all necessary dotfiles to run my development config.
 
 coming soon...
 
-## GIT REPO
+## Project Templates
+
+A convenience script has been added to create cpp projects. 
+This will create a plank CMAKE Project with the given name 
+
+```
+newcpp [project_name]
+```
+
+## GIT REPO for Dotfiles
 
 This Git Repository was created using this guide:
 

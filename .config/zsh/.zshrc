@@ -25,6 +25,9 @@ bindkey -M menuselect 'l' vi-forward-char
 bindkey -M menuselect 'j' vi-down-line-or-history
 bindkey -v '^?' backward-delete-char
 
+# source .profile file
+source $HOME/.profile
+
 #import alias
 source $ZDOTDIR/zsh-alias.zsh
 
